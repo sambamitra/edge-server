@@ -1,5 +1,5 @@
 server:
-  port: 8765
+  port: ${PORT:8765}
   ssl:
     key-store: classpath:server/edgeserver.jks
     key-store-password: s3cr3t
