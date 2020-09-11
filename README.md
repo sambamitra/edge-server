@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sambamitra/edge-server.svg?branch=master)](https://travis-ci.org/sambamitra/edge-server)
+[![Build Status](https://travis-ci.org/sambamitra/edge-server.svg?branch=main)](https://travis-ci.org/sambamitra/edge-server)
 # Edge Server
 This is an Edge Server project based on Netflix Zuul and Spring Cloud.
 
